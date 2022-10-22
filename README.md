@@ -3,6 +3,7 @@ nice to meet you ;)
 
 Interests:
 - Game Dev (Unity, Godot)
+- Still searching for more...
 
 Python is my Main Language
 
