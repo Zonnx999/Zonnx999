@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @Zonnx999
 nice to meet you ;)
 
-- 👀 I'm trying to make 2D games with pygame.. Tried to use unity (and godot) but I'll go with pygame for now.
+Interests:
+- Game Dev (Unity, Godot)
 
+Python is my Main Language
 
+<!---
 - 🌱 I learned python for my first language in 2020.. (during quarantine) and I got a lot of interest in programming afterwards.
 I Learned...
 1) python 3.xx
@@ -19,7 +22,7 @@ I Learned...
 
 - 📫 How to reach me ...
 1) contact -> eric.myoung@icloud.com (still there are very low chance of someone to actually contact me..)
-
+--->
 
 <!---
 Zonnx999/Zonnx999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
